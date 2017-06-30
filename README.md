@@ -6,6 +6,7 @@ Project for CS374, Intro to HCI
 - Our main page is in watch.html, where you can watch video and ask, answer, and rate.
 
 There are only 2 videos in the database for now.
+
 Introduction video:https://www.youtube.com/watch?v=1rmfeHbu8Jo
 
 Thanks for dropping by!
